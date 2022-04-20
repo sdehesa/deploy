@@ -117,6 +117,7 @@ Is Ansistrano ready to be used? Here are some companies currently using it:
 * [VirginMobile Chile](https://empresas.virginmobile.cl)
 * [Wavecontrol](http://monitoring.wavecontrol.com/ca/public/demo/)
 * [WAVE Meditation](https://wavemeditation.com/)
+* [Werfen](https://www.werfen.com)
 * [Yubl](https://yubl.me/)
 
 If you are also using it, please let us know via a PR to this document.
